@@ -1,0 +1,45 @@
+2026-06-18 05:34:55.808 [info] Extension host with pid 333 started
+2026-06-18 05:34:55.831 [info] Lock '/home/vsysuser/workspace/.openvscode-server/data/User/workspaceStorage/dda3f95/vscode.lock': Lock acquired.
+2026-06-18 05:34:56.023 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-06-18 05:34:56.141 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-06-18 05:34:56.232 [info] Eager extensions activated
+2026-06-18 05:34:56.241 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-06-18 05:34:56.242 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-06-18 05:34:56.746 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2026-06-18 05:34:56.926 [info] ExtensionService#_doActivateExtension Continue.continue, startup: false, activationEvent: 'onStartupFinished'
+2026-06-18 05:34:56.927 [info] ExtensionService#_doActivateExtension vyomasystems.functional-coverage-viewer, startup: false, activationEvent: 'onStartupFinished'
+2026-06-18 05:35:02.350 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-06-18 08:57:44.404 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-06-18 08:59:55.485 [error] Error: No autocomplete model configured and provided model not found in config
+	at getAutocompleteContext (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821508:21)
+	at async processNextEditData (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821625:35)
+2026-06-18 09:01:15.100 [error] Error: No autocomplete model configured and provided model not found in config
+	at getAutocompleteContext (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821508:21)
+	at async processNextEditData (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821625:35)
+2026-06-18 09:01:35.867 [error] Error: No autocomplete model configured and provided model not found in config
+	at getAutocompleteContext (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821508:21)
+	at async processNextEditData (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821625:35)
+2026-06-18 09:03:56.500 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model2)
+2026-06-18 09:03:57.745 [error] Error: No autocomplete model configured and provided model not found in config
+	at getAutocompleteContext (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821508:21)
+	at async processNextEditData (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821625:35)
+2026-06-18 09:05:55.222 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2026-06-18 12:36:14.814 [warning] [Decorations] CAPPING events from decorations provider vscode.git 634
+2026-06-18 12:36:15.212 [warning] [Decorations] CAPPING events from decorations provider vscode.git 634
+2026-06-18 12:36:19.367 [warning] [Decorations] CAPPING events from decorations provider vscode.git 634
+2026-06-18 12:36:24.442 [warning] [Decorations] CAPPING events from decorations provider vscode.git 634
+2026-06-18 12:36:29.519 [warning] [Decorations] CAPPING events from decorations provider vscode.git 634
+2026-06-18 12:36:34.587 [warning] [Decorations] CAPPING events from decorations provider vscode.git 634
+2026-06-18 12:36:39.647 [warning] [Decorations] CAPPING events from decorations provider vscode.git 634
+2026-06-18 12:36:42.428 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-06-18 12:36:44.740 [warning] [Decorations] CAPPING events from decorations provider vscode.git 635
+2026-06-18 12:36:49.813 [warning] [Decorations] CAPPING events from decorations provider vscode.git 635
+2026-06-18 12:36:54.886 [warning] [Decorations] CAPPING events from decorations provider vscode.git 635
+2026-06-18 12:37:16.329 [warning] [Decorations] CAPPING events from decorations provider vscode.git 635
+2026-06-18 12:37:29.208 [warning] [Decorations] CAPPING events from decorations provider vscode.git 635
+2026-06-18 12:37:50.897 [warning] [Decorations] CAPPING events from decorations provider vscode.git 635
+2026-06-18 12:37:55.963 [warning] [Decorations] CAPPING events from decorations provider vscode.git 635
+2026-06-18 12:38:01.030 [warning] [Decorations] CAPPING events from decorations provider vscode.git 635
+2026-06-18 12:38:06.126 [warning] [Decorations] CAPPING events from decorations provider vscode.git 635
+2026-06-18 12:38:18.253 [warning] [Decorations] CAPPING events from decorations provider vscode.git 635
+2026-06-18 12:38:23.318 [warning] [Decorations] CAPPING events from decorations provider vscode.git 635

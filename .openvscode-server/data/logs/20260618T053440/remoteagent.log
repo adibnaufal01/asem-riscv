@@ -1,0 +1,19 @@
+2026-06-18 05:34:40.975 [info] 
+
+
+
+
+2026-06-18 05:34:40.988 [info] Extension host agent started.
+2026-06-18 05:34:53.641 [info] [100.96.4.30][defae0ec][ManagementConnection] New connection established.
+2026-06-18 05:34:53.752 [info] [100.96.4.30][c02592e8][ExtensionHostConnection] New connection established.
+2026-06-18 05:34:53.950 [info] [100.96.4.30][c02592e8][ExtensionHostConnection] <333> Launched Extension Host Process.
+2026-06-18 05:36:49.908 [info] [100.96.4.30][defae0ec][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-06-18 07:50:37.184 [info] [100.96.4.30][defae0ec][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2026-06-18 07:50:37.185 [info] [100.96.4.30][c02592e8][ExtensionHostConnection] The client has reconnected.
+2026-06-18 07:50:37.268 [info] [100.96.4.30][defae0ec][ManagementConnection] The client has reconnected.
+2026-06-18 07:51:14.301 [info] [100.96.4.30][defae0ec][ManagementConnection] The client has reconnected.
+2026-06-18 07:51:14.520 [info] [100.96.4.30][c02592e8][ExtensionHostConnection] The client has reconnected.
+2026-06-18 08:12:50.767 [info] [100.96.4.30][c02592e8][ExtensionHostConnection] The client has reconnected.
+2026-06-18 08:12:50.990 [info] [100.96.4.30][defae0ec][ManagementConnection] The client has reconnected.
+2026-06-18 08:13:29.937 [info] [100.96.4.30][defae0ec][ManagementConnection] The client has reconnected.
+2026-06-18 08:13:30.167 [info] [100.96.4.30][c02592e8][ExtensionHostConnection] The client has reconnected.
