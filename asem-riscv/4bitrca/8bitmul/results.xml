@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1784183153" />
+    <testcase name="run_test" classname="test_mult_pipelined" file="/home/vsysuser/workspace/4bitrca/8bitmul/test_mult_pipelined.py" lineno="179" time="0.020600557327270508" sim_time_ns="660.0" ratio_time="32037.968173138128" />
+  </testsuite>
+</testsuites>

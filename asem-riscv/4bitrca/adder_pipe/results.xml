@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1784182185" />
+    <testcase name="run_test" classname="test_adder_pipelined_uvm" file="/home/vsysuser/workspace/4bitrca/adder_pipe/test_adder_pipelined_uvm.py" lineno="190" time="0.011278867721557617" sim_time_ns="220.0" ratio_time="19505.50404802672" />
+  </testsuite>
+</testsuites>
